@@ -7,4 +7,4 @@
 
 > Latest version: 0.5 pre-release
 
-![BetterCode Image](image.jpeg)
+![BetterCode Image](BetterCode.png)
