@@ -6,5 +6,7 @@
 > Started November 19th 2020
 > 
 > Latest version: 0.5 pre-release
+> 
+> New Design, soon to be implemented. Current draft:
 
-![BetterCode Image](BetterCode.png)
+![BetterCode Image](betterCodeDesign.png)
