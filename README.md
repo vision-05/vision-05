@@ -7,6 +7,6 @@
 > 
 > Latest version: 0.5 pre-release
 > 
-> New Design, soon to be implemented. Current draft:
+> Current look, not functional yet (note terminal windows are just logging, not part of the app):
 
 ![BetterCode Image](bettercodeimage.png)
