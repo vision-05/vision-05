@@ -9,4 +9,4 @@
 > 
 > New Design, soon to be implemented. Current draft:
 
-![BetterCode Image](betterCodeDesign)
+![BetterCode Image](bettercodeimage.png)
