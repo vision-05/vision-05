@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Vision
 
 ## Current Project: BetterCode
-> A light text editor made in C++ and Clojure, using CLJFX for the front end, the immer library for immutable data structures and some unix tcp stream sockets.
+> A text editor made in Clojure using CLJFX and Aleph TCP sockets
 > 
 > Started November 19th 2020
 > 
