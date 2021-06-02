@@ -5,8 +5,4 @@
 > 
 > Started November 19th 2020
 > 
-> Latest version: 0.5 pre-release
-> 
-> Current look, not functional yet (note terminal windows are just logging, not part of the app):
-
-![BetterCode Image](bettercodeimage.png)
+> Latest version: 0.6 pre-release
