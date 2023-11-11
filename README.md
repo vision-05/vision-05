@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Tim
 
-## Current Project: BetterCode
+## Project: BetterCode
 > A text editor made in Clojure using CLJFX and Aleph TCP sockets
 > 
 > Started November 19th 2020
