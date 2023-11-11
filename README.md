@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Vision
+### Hi there 👋 I'm Tim
 
 ## Current Project: BetterCode
 > A text editor made in Clojure using CLJFX and Aleph TCP sockets
